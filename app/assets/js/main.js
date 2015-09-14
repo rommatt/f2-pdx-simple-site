@@ -1,5 +1,5 @@
 var course = {
-  "level" : "201",
+  "level" : 201,
   "name" : "Foundations II: Javascript",
   "lectures" : [
     { "topic" : "Javascript Basics" },
